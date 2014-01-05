@@ -1,9 +1,15 @@
 Code from https://github.com/hipchat/linkify
 
+**Installation**
+
+```
+npm install linklink
+```
+
 **To use:**
 
 ```javascript
-var linkify = require('linkify');
+var linkify = require('linklink');
 var linkified_text = linkify.linkify(unlinkified_text);
 ```
 
