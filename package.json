@@ -1,6 +1,6 @@
 {
     "name": "linklink",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Convert plaintext links to html anchors",
     "homepage": "https://github.com/mattpardee/linklink",
     "author": "Matt Pardee <matt.pardee@gmail.com>",
