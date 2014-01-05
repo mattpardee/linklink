@@ -1,9 +1,9 @@
 {
-    name: "linklink",
-    version: "0.0.1",
-    description: "Convert plaintext links to html anchors",
-    homepage: "https://github.com/mattpardee/linklink",
-    author: "Matt Pardee <matt.pardee@gmail.com>",
+    "name": "linklink",
+    "version": "0.0.1",
+    "description": "Convert plaintext links to html anchors",
+    "homepage": "https://github.com/mattpardee/linklink",
+    "author": "Matt Pardee <matt.pardee@gmail.com>",
     "dependencies" : {},
     "engines" : { "node": "> 0.4.x" },
     "repository" : {"type": "git", "url": "git://github.com/mattpardee/linklink.git"}
